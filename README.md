@@ -1,4 +1,4 @@
-# 🌟 Adidas-Sales-Analysis: Unraveling the Secrets of Adidas' Sales Success 📊
+# Adidas-Sales-Analysis 📊
 
 You can view the interactive Tableau visualization by clicking on the link below:
 
