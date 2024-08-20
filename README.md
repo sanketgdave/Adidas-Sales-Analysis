@@ -6,7 +6,7 @@ You can view the interactive Tableau visualization by clicking on the link below
 
 ## Screenshot
 
-![Tableau Visualization Screenshot](https://public.tableau.com/static/images/FM/FM5JF8FC6/sheet1/1.png)
+![Tableau Visualization Screenshot](Adidas Sales Dashboard.png)
 
 ## 📌 KEY FINDINGS:
 
